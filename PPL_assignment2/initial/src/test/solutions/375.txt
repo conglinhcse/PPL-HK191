@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(__NEGA),[],FloatType,Block([If(UnaryOp(-,IntLiteral(123)),Return(UnaryOp(-,FloatLiteral(567.456))),Return(UnaryOp(-,BinaryOp(+,IntLiteral(12),IntLiteral(34)))))]))])

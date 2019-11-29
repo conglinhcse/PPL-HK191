@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],VoidType,Block([Dowhile([Block([If(CallExpr(Id(True),[CallExpr(Id(False),[CallExpr(Id(Do),[IntLiteral(1),IntLiteral(2),IntLiteral(3)])])]),CallExpr(Id(printer),[Id(a),Id(b),Id(c)]))])],CallExpr(Id(func),[Id(a)]))]))])

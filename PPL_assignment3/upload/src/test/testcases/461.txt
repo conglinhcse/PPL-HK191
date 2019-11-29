@@ -1,0 +1,10 @@
+
+        void main () {
+            int i; float f; boolean b; string s;
+            int arr[5];
+            i = 5;
+            f = 5.0;
+            b = true;
+            s = "hello";
+            arr[0] = 0;
+        }

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(a),[VarDecl(i,IntType)],FloatType,Block([])),VarDecl(a,IntType)])

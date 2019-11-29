@@ -1,0 +1,16 @@
+
+        boolean main() {
+            if (test() == "Cool" && test() == "Awesome" && test() == "handsome") {
+                return true;
+            }
+            else {
+                putIntLn(-1);
+                putBoolLn(false);
+                putStringLn("Wrong");
+                return false;
+            }
+        }
+        string test() {
+            return "KMM";
+        }
+        

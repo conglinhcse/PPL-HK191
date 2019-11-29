@@ -1,0 +1,9 @@
+{
+    "python.analysis.disabled": [
+        "undefined-variable"
+    ],
+    "python.linting.pylintArgs": [
+        "--disable=all"
+    ],
+    "git.ignoreLimitWarning": true
+}

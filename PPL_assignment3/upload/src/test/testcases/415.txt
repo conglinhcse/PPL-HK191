@@ -1,0 +1,12 @@
+
+        void main () {
+            if (1 == 2)
+            {
+                int i;
+                i = 1;
+            }
+            do {
+                int i;
+                i = 2;
+            } while(true);
+        }

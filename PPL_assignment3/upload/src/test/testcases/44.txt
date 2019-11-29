@@ -1,0 +1,16 @@
+
+        int main () {
+            int c;
+            do
+                {
+                    int a;
+                    a = 2;
+                }
+                {
+                    int b;
+                    b = 3;
+                    return 1;
+                }
+            while c == 5;
+        }
+        

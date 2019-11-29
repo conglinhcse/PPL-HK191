@@ -1,0 +1,27 @@
+
+        void main() {
+            int testInt;
+            float testFloat;
+            boolean testBoolean;
+            string testString;
+
+            int testIntArray[5];
+            float testFloatArray[5];
+            boolean testBooleanArray[5];
+            string testStringArray[5];
+
+            int testArray[5];
+
+            testInt = 1;
+            testFloat = 1.1;
+            testBoolean = true;
+            testString = "aaa";
+
+            testIntArray[0] = 1;
+            testFloatArray[0] = 1.1;
+            testBooleanArray[0] = true;
+            testStringArray[0] = "aaa";
+
+            testArray = testIntArray;
+        }
+        

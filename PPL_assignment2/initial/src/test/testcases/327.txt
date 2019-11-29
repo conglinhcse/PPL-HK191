@@ -1,0 +1,13 @@
+int main( int argc , string str )
+        {
+            boolean c ;
+            int i ;
+            i=10;
+            if(i>=argc && c==true){
+                int d ;
+                str = "Hello World";
+                putInt(d ) ;
+            }
+            print(str);
+            return i ;
+        }

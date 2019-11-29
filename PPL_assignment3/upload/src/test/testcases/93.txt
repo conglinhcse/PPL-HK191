@@ -1,0 +1,14 @@
+
+        void main() {
+            int a[5];
+            if (a[1] == 0) {
+                do
+                    return;
+                while a[3] <=6;
+            }
+            a[3] = test(5);
+        }
+        int test(float a) {
+            return test(a + 1);
+        }
+        

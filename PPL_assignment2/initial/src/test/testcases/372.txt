@@ -1,0 +1,6 @@
+int test_complex_MUL_operator(){
+            if((123*123)*123==1 && 8.665*123!=3.0*3.1)
+                return (123*foo(12))*13;
+            else
+                return (123*goo(12))*13*124*21;
+        }

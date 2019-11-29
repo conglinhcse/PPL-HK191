@@ -1,0 +1,6 @@
+void main(){
+            string a, b;
+            a = "KMM ";
+            b = "is cool";
+            a = a + b;
+        }

@@ -1,0 +1,4 @@
+void main() {
+            if(foo(a[a[a[2]]]))
+                return;
+        }

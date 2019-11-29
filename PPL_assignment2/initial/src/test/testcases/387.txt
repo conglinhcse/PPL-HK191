@@ -1,0 +1,1 @@
+float main() {foo(123,abc,xyz,__);return 12.43;}

@@ -1,0 +1,12 @@
+string a;
+        int plusFuncInt(int x, int y) {
+            int sum;
+            sum = x*567 + y/1234;
+            return sum-45673;
+        }
+        float plusFuncDouble(float x, float y) {
+            if(x>=y)
+                return x;
+            else
+                return y;
+        }

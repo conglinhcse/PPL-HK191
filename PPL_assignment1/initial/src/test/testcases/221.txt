@@ -1,0 +1,15 @@
+int operator(int num){   
+            int x;
+            x = 12;
+            int y;
+            y = 5;
+            int tong, hieu, tich, thuong;
+            tong = x + y;
+            hieu= x - y;
+            tich = x * y;
+        }
+        int[] compute(int x,int y,int tong[]){
+            operator(10);
+            return tong;
+        }
+        

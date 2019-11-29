@@ -1,0 +1,6 @@
+int PRINTER(int Date){
+            Date=1234;
+            Date>=1234;
+            Date==5;
+            return Date;
+        }

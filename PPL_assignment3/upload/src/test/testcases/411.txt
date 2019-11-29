@@ -1,0 +1,9 @@
+
+        void main () {
+            do {
+                int x;
+                float x;
+                return;
+            } while(1 != 2);
+            return;
+        }

@@ -1,0 +1,1 @@
+float main() {foo(__[2],_[_]);return 12.43;}

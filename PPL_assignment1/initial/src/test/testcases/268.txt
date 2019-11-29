@@ -1,0 +1,9 @@
+boolean arr[10];
+        void print(boolean arr[){}
+        void compute(int x,int y,int tong[]){
+            for(i=0;i<100;i=i+1){
+                arr[i]=true;
+                print(arr);
+            }
+        }
+        

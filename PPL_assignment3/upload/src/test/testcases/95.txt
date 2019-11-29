@@ -1,0 +1,11 @@
+
+        int test() {
+            return 1;
+        }
+        void main() {
+            test();
+        }
+        float test() {
+            return 1;
+        }
+        

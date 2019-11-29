@@ -1,0 +1,6 @@
+int test_complex_NOT_operator(){
+            if(abc== !(123+134))
+                return !(123*foo(12))*13;
+            else
+                return !4;
+        }

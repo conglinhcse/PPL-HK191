@@ -1,0 +1,8 @@
+
+        void main() {
+            putIntLn(test() + test());
+        }
+        int test() {
+            return 1;
+        }
+        

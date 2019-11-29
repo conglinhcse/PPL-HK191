@@ -1,0 +1,16 @@
+
+        void main(int a, int b) {
+            if (a < b && a + b != 0) {
+                return;
+            }
+            else {
+                do a = a + 1; while a <= 0;
+            }
+            float c;
+            c = pow(a);
+        }
+
+        float pow(int a) {
+            return a * a;
+        }
+        

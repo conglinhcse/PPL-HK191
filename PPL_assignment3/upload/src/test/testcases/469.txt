@@ -1,0 +1,10 @@
+int foo(int a, int b){
+            if (a == 2)
+                a = 4;
+            else
+                return 1;
+        }
+        void main () {
+            foo(1, 2);
+            return;
+        }

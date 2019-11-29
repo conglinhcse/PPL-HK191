@@ -1,0 +1,3 @@
+float main() {
+            x=foo(__[2],12,"true",2.3);
+            return 12.e-3;}

@@ -1,0 +1,6 @@
+int test_LESS_EQUAL_operator(){
+            if(abc<=xyz || 8<=3+3 && asdf<=567.678)
+                return 1;
+            else
+                return 0;
+        }

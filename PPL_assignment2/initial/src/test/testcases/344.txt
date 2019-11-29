@@ -1,0 +1,32 @@
+boolean test_dowhile_break_continue(){
+            int arr[5];
+            do
+                {
+                    if(true)
+                        {
+                            do
+                                arr[i]=i*i;
+                            while(true);
+                            continue;
+                        }
+                    else
+                    {
+                        if(false)
+                            break;
+                        else
+                            do{
+                                print("Hello");
+                                if(i==false)
+                                {
+                                    i=true;
+                                    continue;
+                                }
+                            }
+                            while(i==true);
+                            break;
+                    }
+                        
+                }
+            while(__pull__(____1____)!=1);
+            return true;
+        }

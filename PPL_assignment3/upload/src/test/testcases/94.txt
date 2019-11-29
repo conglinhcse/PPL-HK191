@@ -1,0 +1,8 @@
+
+        int main;
+        void main() {
+            main();
+            int main;
+            main = 0;
+        }
+        

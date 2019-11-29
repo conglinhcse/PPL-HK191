@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(test_ADD_operator),[],IntType,Block([If(BinaryOp(&&,BinaryOp(>,BinaryOp(+,IntLiteral(1),IntLiteral(2)),BinaryOp(+,IntLiteral(2),IntLiteral(3))),BinaryOp(>=,FloatLiteral(8.665),BinaryOp(+,FloatLiteral(3.0),FloatLiteral(3.1)))),Return(BinaryOp(+,IntLiteral(1),IntLiteral(2))),Return(BinaryOp(+,IntLiteral(456),Id(cvb))))]))])

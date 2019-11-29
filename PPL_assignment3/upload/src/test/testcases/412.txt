@@ -1,0 +1,6 @@
+int x;
+        void main () {
+            float x;
+            x = 1;
+            return;
+        }

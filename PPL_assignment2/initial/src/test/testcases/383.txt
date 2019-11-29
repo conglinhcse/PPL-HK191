@@ -1,0 +1,7 @@
+void main(int argc, string argv[]) {
+            int arr[3];
+            i=0;
+            arr[arr[arr[2]]]= arr[g00(12)*arr[4]-12]-1;
+            arr[abc*joo(__)/___]=arr[arr[arr[2]]];
+            return;
+        }

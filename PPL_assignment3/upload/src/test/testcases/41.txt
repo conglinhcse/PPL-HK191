@@ -1,0 +1,14 @@
+
+        int a;
+        float b;
+        float c;
+        float main() {
+            if (a == b) {
+                c = a + b;
+                return c;
+            }
+            else {
+                return b;
+            }
+        }
+        

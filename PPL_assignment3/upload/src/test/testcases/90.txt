@@ -1,0 +1,14 @@
+
+        void main() {
+            int a, b, c;
+            a = b;
+            b = c;
+            c = test(a, b);
+        }
+        int test(int a, int b) {
+            int d[5];
+            d[0] = a;
+            d[-b] = b;
+            return d[-d[-a]];
+        }
+        

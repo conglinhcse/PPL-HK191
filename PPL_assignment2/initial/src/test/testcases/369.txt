@@ -1,0 +1,7 @@
+int __MODOP( ){ do
+        i=0;
+        i=count%12;
+        goo(3,arr[10]%34);
+        while(x>=9);
+        return 345%10000;
+        }

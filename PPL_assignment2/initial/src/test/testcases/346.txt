@@ -1,0 +1,7 @@
+int num(int a){ return a;}
+        int test_ASSIGN_operator(){
+            int arr[3];
+            arr[0]=num(10); arr[1]=num(11)+num(12); arr[2]=3+num(13);
+            print(arr[0]+1, arr[1]+2,arr[2]+3);
+            return arr[0]+1+arr[1]+2+arr[2]+3;
+        }

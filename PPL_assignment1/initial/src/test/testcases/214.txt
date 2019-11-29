@@ -1,0 +1,7 @@
+int Date(){}
+        float Month(int date){}
+        void PRINT(int date){
+            int x;
+            x=date;
+        }
+        

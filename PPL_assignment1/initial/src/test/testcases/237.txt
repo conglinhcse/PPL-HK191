@@ -1,0 +1,17 @@
+
+        void count(int money[]){
+            int sum,i;
+            sum=0;
+            i=0;
+            do
+            sum=sum+money[i+1];
+            while(i<=100);
+        }
+        int main( int argc[] , string str )
+        {
+            boolean c ;
+            count(argc);
+            print(str);
+            return i ;
+        }
+        

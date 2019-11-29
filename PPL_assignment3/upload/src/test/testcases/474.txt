@@ -1,0 +1,8 @@
+
+        int main () {
+            int i;
+            i = 5;
+            if (i < 10)
+                return 10;
+            else return 5;
+        }

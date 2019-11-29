@@ -1,0 +1,7 @@
+void main() {
+            do {
+                if(True(False(Do(1,2,3)))) 
+                    printer(a,b,c);
+                } 
+            while(func(a));
+        }

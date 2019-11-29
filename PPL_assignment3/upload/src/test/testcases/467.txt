@@ -1,0 +1,9 @@
+void foo(float f[]) {}
+        int[] bar(int i[]) {
+            return i;
+        }
+        void main () {
+            int arr[5];
+            arr[0] = 1;
+            foo(bar(arr));
+        }

@@ -1,0 +1,6 @@
+int test_GREATER_EQUAL_operator(){
+            if(zxc>=ctx || 8.665>=3.0+3.1)
+                return 1;
+            else
+                return 0;
+        }

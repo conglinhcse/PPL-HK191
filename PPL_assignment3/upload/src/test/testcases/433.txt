@@ -1,0 +1,8 @@
+int[] foo(int a[]) {
+            return a;
+        }
+        float[] main() {
+            int i[10];
+            i[0] = 1; i[1] = 2;
+            return foo(i);
+        }

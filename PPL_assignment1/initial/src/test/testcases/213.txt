@@ -1,0 +1,7 @@
+int Date;
+        boolean PRINT(int a){
+            boolean n;
+            n=true;
+            return true;
+        }
+        

@@ -1,0 +1,15 @@
+void main()
+        {
+	    clrscr();
+	    int no_star, no_row, i, j;
+	    for(i=0; i<no_row; i++)
+	    {
+		    for(j=0; j<p; j++)
+		{
+			printf("* ");
+		}
+		printf("");
+	    }
+	    getch();
+        }
+        

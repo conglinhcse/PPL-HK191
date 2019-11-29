@@ -1,0 +1,10 @@
+void main( ){ do
+        do 
+        i=0;
+        do fghj=67/hj;
+        while(gh==true);
+        while(x<=10);
+        i=count/12;
+        goo(3,arr[10]);
+        while(x>=9); 
+        }

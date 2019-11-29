@@ -1,0 +1,11 @@
+int foo(int a, int b){
+            if (a == 1)
+                return a + b;
+            return foo(1, 5);
+        }
+        void main () {
+            float f;
+            f = getFloat();
+            putLn();
+            return;
+        }

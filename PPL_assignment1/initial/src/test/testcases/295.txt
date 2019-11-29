@@ -1,0 +1,13 @@
+int main( int argc , float argv[x*3] )
+        {
+            boolean c ;
+            int i ;
+            for(i=0;i<100;i=a+3){
+                int d ;
+                d = i + 3 ;
+                putInt(d ) ;
+            }
+            print(d);
+            return i ;
+        }
+        

@@ -1,0 +1,6 @@
+float __NEGA(){
+            if(-123)
+                return -567.456;
+            else
+                return -(12+34);
+        }

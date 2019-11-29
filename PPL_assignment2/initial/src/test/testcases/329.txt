@@ -1,0 +1,2 @@
+
+        void main( ){ if (a) if (b) if (c) for(i=0;i<9;i=i+1) foo(2,4); else a; else for(i=0;i<9;i=i+1) foo(2,4);}

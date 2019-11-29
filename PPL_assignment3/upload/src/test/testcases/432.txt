@@ -1,0 +1,8 @@
+int[] foo(int a[]) {
+            return a;
+        }
+        string[] main() {
+            int s[10];
+            s[0] = 1; s[1] = 2;
+            return foo(s);
+        }

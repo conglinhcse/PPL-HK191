@@ -1,0 +1,12 @@
+string test_break(){
+            int arr[5];
+            for(i=0;i<5;i=i+1)
+                {
+                    if(true)
+                        arr[i]=i*i;
+                    else
+                        break;
+                }
+            __pull__(____1____);
+            return "This is break test";
+        }

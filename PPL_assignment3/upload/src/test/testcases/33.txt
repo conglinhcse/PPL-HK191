@@ -1,0 +1,9 @@
+
+        void main() {
+            int a;
+            a = test();
+        }
+        int test() {
+            return 1;
+        }
+        

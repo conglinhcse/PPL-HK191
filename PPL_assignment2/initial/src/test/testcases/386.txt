@@ -1,0 +1,1 @@
+boolean main() {foo(123);return true;}

@@ -1,0 +1,9 @@
+
+        void main() {
+            int a;
+            a = test(test(test(test(test(test(test(test(test(test(test(test(0))))))))))));
+        }
+        int test(int a) {
+            return a + 1;
+        }
+        

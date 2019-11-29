@@ -1,0 +1,8 @@
+int main(int argc, string argv[]) {
+            int arr[3];
+            i=0;
+            arr[foo(1)]=1; 
+            arr[g00(12)*2-12]=43;
+            arr[abc*joo(__)/___]=5678;
+            return arr[0]+arr[abc*joo(__)/___]-arr[2];
+        }

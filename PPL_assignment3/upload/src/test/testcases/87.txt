@@ -1,0 +1,9 @@
+
+        int main(){
+            int a;
+            if (true)
+                a = 0;
+            else 
+                return 0;
+        }
+        

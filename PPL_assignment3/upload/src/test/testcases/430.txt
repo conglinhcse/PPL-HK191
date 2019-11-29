@@ -1,0 +1,5 @@
+string[] main() {
+            string s[10];
+            s[0] = "abc"; s[1] = "xyz";
+            return s;
+        }

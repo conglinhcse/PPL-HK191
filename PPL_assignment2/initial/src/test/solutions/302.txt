@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[VarDecl(i,ArrayTypePointer(StringType))],IntType,Block([]))])

@@ -1,0 +1,7 @@
+void main() {
+            boolean arr[3];
+            i=0;
+            arr[i]=true; 
+            arr[i+1]=true;
+            arr[i*2]=false;
+        }

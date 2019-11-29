@@ -1,0 +1,10 @@
+string[] foo(string s[]) {
+            return s;
+        }
+        void main () {
+            int i;
+            i = 2;
+            string s[2];
+            s[0] = "world";
+            foo(s)[1] = "wide";
+        }

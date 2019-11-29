@@ -1,0 +1,10 @@
+
+        string a;
+        int plusFuncInt(int x, int y) {
+            return x + y;
+        }
+
+        float plusFuncDouble(float x, float y) {
+            return x + y;
+        }       
+        

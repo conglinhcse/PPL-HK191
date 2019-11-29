@@ -1,0 +1,7 @@
+
+        void print(boolean arr[]){}
+        void test_prog(){
+            boolean arr[10];
+            print(arr);
+        }
+        

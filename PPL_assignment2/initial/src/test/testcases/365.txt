@@ -1,0 +1,6 @@
+int test_SUB_operator(){
+            if(1-2>2-3 && 8.665>=3.0-3.1)
+                return 1-2;
+            else
+                return 456-cvb;
+        }

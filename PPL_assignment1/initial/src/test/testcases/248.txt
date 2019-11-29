@@ -1,0 +1,11 @@
+string c(){
+            s = a +b + c * d;
+            d = a && b;
+            e = !a;
+            return str;
+        }
+        int main(){
+            int a[1];
+            if (true) return a;
+            else return b;
+        }

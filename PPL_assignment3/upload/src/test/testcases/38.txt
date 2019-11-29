@@ -1,0 +1,12 @@
+
+        void main() {
+            int i;
+            for (i = 0; i < 4; i = i + 1) {
+                if (i % 2 == 0)
+                    return;
+                else if (i == 3) {
+                    continue;
+                }
+            }
+        }
+        

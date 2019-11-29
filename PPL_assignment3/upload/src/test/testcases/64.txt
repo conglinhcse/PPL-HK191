@@ -1,0 +1,8 @@
+
+        float main(int a) {
+            return a % test(a);
+        }
+        int test(int a) {
+            return a % a;
+        }
+        

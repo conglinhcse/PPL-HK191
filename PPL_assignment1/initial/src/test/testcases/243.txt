@@ -1,0 +1,6 @@
+void main( ){
+        int i,count;
+        i=count/12;
+        goo(3,arr[10]);
+        a=a && 1;
+        }

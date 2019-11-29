@@ -1,0 +1,7 @@
+float number;
+        int PRINT(int a){
+            int a;
+            a=10;
+            return a;
+        }
+        

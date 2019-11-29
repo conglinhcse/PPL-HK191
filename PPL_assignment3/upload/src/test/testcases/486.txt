@@ -1,0 +1,9 @@
+int foo(int a, int b){
+            return 2;
+        }
+        void main () {
+            float f;
+            f = getFloat();
+            putLn();
+            return;
+        }

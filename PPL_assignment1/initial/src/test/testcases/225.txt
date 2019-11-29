@@ -1,0 +1,10 @@
+
+        string a;
+        void printsss(string a){
+            print(a);
+        }
+        void test_program(){
+            a = "dfghjkfg";
+            printsss(a);
+        }
+        

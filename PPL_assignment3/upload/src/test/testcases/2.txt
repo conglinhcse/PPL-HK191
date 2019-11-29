@@ -1,0 +1,9 @@
+
+        void main() {
+            int a;
+            test();
+        }
+        void test() {
+            a = 0;
+        }
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],FloatType,Block([CallExpr(Id(foo),[IntLiteral(123),Id(abc),Id(xyz),Id(__)]),Return(FloatLiteral(12.43))]))])

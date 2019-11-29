@@ -1,0 +1,8 @@
+
+        void main() {
+            test(1, 1);
+        }
+        void test(int a, int a) {
+            return;
+        }
+        

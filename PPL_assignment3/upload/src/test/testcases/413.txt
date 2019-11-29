@@ -1,0 +1,9 @@
+int sum(int a, int b){
+            return a+b;
+        }
+        void main () {
+            sum(1, 2);
+            float sum;
+            sum = 1;
+            return;
+        }

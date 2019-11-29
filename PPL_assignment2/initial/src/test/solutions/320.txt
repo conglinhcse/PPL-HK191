@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(PRINT),[VarDecl(a,IntType)],IntType,Block([BinaryOp(=,Id(Date),Id(a)),BinaryOp(=,Id(b),IntLiteral(4567)),Return(IntLiteral(1))]))])

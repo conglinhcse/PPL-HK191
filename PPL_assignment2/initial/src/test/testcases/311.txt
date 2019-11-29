@@ -1,0 +1,6 @@
+int a(int i,int b,string c[]){}
+        float b(int c,string d){}
+        int[] c(float a, boolean f[]){
+            cvb=1;
+        }
+        

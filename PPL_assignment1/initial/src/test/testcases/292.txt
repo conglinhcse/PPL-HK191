@@ -1,0 +1,13 @@
+int main( int argc , float argv[] )
+        {
+            boolean c[2+3+4] ;
+            int i ;
+            for(i=0;i<100;i=a+3){
+                int d ;
+                d = i + 3 ;
+                putInt(d ) ;
+            }
+            print(d);
+            return i;
+        }
+        

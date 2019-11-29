@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(PRINTER),[VarDecl(Date,IntType)],IntType,Block([If(Id(True),Block([Id(a),Id(b),Id(c)]))]))])

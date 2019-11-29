@@ -1,0 +1,3 @@
+float number;
+                    boolean check[x+y+3];
+        

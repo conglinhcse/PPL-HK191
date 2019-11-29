@@ -1,0 +1,11 @@
+
+        void printf(string s) {}
+        int main (int args[]) {
+            int n;
+            printf("Enter an integer: ");
+            n = getInt();
+            if (n%2 == 0)
+                printf("even integer.");
+            else printf("odd integer.");
+            return 0;
+        }

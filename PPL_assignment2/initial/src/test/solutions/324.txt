@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(IFFER),[VarDecl(Date,IntType)],FloatType,Block([If(BooleanLiteral(false),Block([Id(a),Id(b),Id(c)]),BinaryOp(=,Id(a),IntLiteral(567))),BinaryOp(=,Id(b),IntLiteral(567)),BinaryOp(=,Id(c),IntLiteral(4567))]))])

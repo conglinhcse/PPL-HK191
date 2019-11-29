@@ -1,0 +1,24 @@
+#Not Left Value:
+Bên LHS ko thể truy cập bộ nhớ (tức lấy địa chỉ của vế trái)
+vd: 3=9+1; 7=2
+a+1=3; 4=a-3;
+
+Nếu truy cập được bộ nhớ là đúng, không cần quan tâm kiểu của 2 bên
+==> ĐÚng: 	a=8; 
+		foo(5,2)=63+8; TypeMismatchInExpr
+		int a[5]; a=9; TypeMismatchInExpr
+
+#Control Follow và Return
+Chỉ cần quan tâm đến: 
+	if-else, tức phải có return trên đường thực thi của if và else
+	Block:
+vd: int main(){
+	{Return 1;}
+}
+
+#Unreachable Function
+Chỉ cần tồn tại một đường thực thi có gọi hàm đó là được
+
+#Hàm void:
+Hoặc là Return;
+Hoặc là ko Return;

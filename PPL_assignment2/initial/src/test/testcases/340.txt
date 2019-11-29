@@ -1,0 +1,14 @@
+float test_continue(){
+            int i;
+            int arr[4];
+            i=0;
+            for(i=1+2+3-4-6*4;i<=arr[2];i=arr[3]+arr[0]+1+i)
+                {
+                    if(true)
+                        continue;
+                    else
+                        continue;
+                }
+            __pull__(____1____);
+            return 345.345;
+        }

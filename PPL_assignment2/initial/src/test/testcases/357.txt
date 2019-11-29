@@ -1,0 +1,6 @@
+int test_GREATER_operator(){
+            if(4>6 || 8>3+3)
+                return 1;
+            else
+                return 0;
+        }

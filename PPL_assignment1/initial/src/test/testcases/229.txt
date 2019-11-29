@@ -1,0 +1,11 @@
+
+        string a;
+        int plusFuncInt(int x, int y) {
+            int sum;
+            for(x=1;x<10;x=y+1){
+                if(x==5)
+                    break;
+            }
+            return x;
+        }       
+        

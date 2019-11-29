@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main),[],FloatType,Block([CallExpr(Id(foo),[ArrayCell(Id(__),IntLiteral(2)),ArrayCell(Id(_),Id(_))]),Return(FloatLiteral(12.43))]))])

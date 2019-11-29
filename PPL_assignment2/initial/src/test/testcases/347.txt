@@ -1,0 +1,8 @@
+boolean test_OR_operator(){
+            int arr[3];
+            arr[0]=1; arr[1]=2; arr[2]=3;
+            if(arr[0]+10|| arr[1] || arr[2] || true)
+                return true;
+            else
+                return false;
+        }

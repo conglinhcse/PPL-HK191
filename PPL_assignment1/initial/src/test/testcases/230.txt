@@ -1,0 +1,10 @@
+
+        string a;
+        float plusFuncDouble(float x, float y) {
+            for(y=0;y<=x;y=y+1)
+            if(y<x)
+                continue;
+            else
+                return y;
+        }       
+        

@@ -1,0 +1,6 @@
+int foo(int a, float a){
+            return 2;
+        }
+        void main () {
+            return;
+        }

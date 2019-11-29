@@ -1,0 +1,6 @@
+void foo(float f[]) {}
+        void main () {
+            float arr[5];
+            arr[0] = 0.14;
+            foo(arr);
+        }

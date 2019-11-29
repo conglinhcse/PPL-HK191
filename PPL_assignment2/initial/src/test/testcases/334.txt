@@ -1,0 +1,16 @@
+void main( ){ 
+        do
+            do i=0;
+                do fghj=34+56-fhg%nbd;
+                    do a;
+                        do func(12);
+                            do printer(a);
+                                do say(hello);
+                                while(gh==true);
+                            while(x<=10);
+                        while(x>=9);
+                    while(abc==x/456 && gh9);
+                while(x && y || z);
+            while(x==9);
+        while(abc!=88 && e==h);
+        }

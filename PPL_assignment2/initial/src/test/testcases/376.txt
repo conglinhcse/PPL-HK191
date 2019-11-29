@@ -1,0 +1,6 @@
+int test_complex_NEGA_operator(){
+            if(abc!= -(123+134) && abc==12-13-3)
+                return -(123*foo(12))*13;
+            else
+                return -(-(-(-4)));
+        }

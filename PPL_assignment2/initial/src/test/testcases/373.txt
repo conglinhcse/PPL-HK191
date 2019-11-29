@@ -1,0 +1,6 @@
+int __NOTOP( ){
+            if(!false)
+                return 2;
+            else
+                return !true;
+        }

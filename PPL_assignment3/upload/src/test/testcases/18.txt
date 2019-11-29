@@ -1,0 +1,9 @@
+
+        void main() {
+            int a[5];
+            a[test()] = 0;
+        }
+        void test() {
+            
+        }
+        

@@ -1,0 +1,12 @@
+  
+        int x,y;
+        int tong, hieu, tich, thuong;
+        int main(){
+            tong = x + y;
+            hieu= x - y;
+            tich = x * y;
+            float average;
+            average = tong/2;
+            return 0;
+        }
+        

@@ -1,0 +1,1 @@
+void ____1____() {do print(2,4); while(a==1);}

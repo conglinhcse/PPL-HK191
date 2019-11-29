@@ -1,0 +1,9 @@
+float IFFER(int Date){
+        if(false){
+            a;b;c;
+        }
+        else
+            a=567;
+        b=567;
+        c=4567;
+        }

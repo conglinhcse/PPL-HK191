@@ -1,0 +1,4 @@
+float number;
+                    boolean check[3];
+                    t=5;
+        

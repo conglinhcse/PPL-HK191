@@ -1,0 +1,7 @@
+
+        boolean a;
+        int a;
+        int main(){
+            return 1;
+        }
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(__MULOP),[],IntType,Block([Dowhile([BinaryOp(=,Id(i),IntLiteral(0)),BinaryOp(=,Id(i),BinaryOp(*,Id(count),IntLiteral(12))),CallExpr(Id(goo),[BinaryOp(*,IntLiteral(3),IntLiteral(4)),BinaryOp(*,ArrayCell(Id(arr),IntLiteral(10)),IntLiteral(34))])],BinaryOp(>=,Id(x),IntLiteral(9))),Return(BinaryOp(*,BinaryOp(*,IntLiteral(345),IntLiteral(10000)),Id(__)))]))])

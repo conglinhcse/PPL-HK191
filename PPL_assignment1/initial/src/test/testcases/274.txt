@@ -1,0 +1,4 @@
+int int;
+        float num;
+        void count(int a,int b);
+        

@@ -1,0 +1,5 @@
+int PRINTER(int Date){
+            Date=1234;
+            b=4567;
+            return Date;
+        }

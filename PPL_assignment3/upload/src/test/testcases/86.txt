@@ -1,0 +1,8 @@
+float main() {
+            int a;
+            a = 2;
+            do 
+                if (true)
+                    return a;
+            while (a == 3);
+        }

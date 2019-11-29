@@ -1,0 +1,8 @@
+string test_EQUAL_operator(){
+            boolean arr[3];
+            arr[0]=true; arr[1]=true; arr[2]=false;
+            if(arr[0]==arr[1] && arr[2]== true || arr[1]==false)
+                return "True";
+            else
+                return "False";
+        }

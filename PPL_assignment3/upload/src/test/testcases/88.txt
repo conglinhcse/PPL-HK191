@@ -1,0 +1,12 @@
+
+        int main(){
+            int a, i;
+            if (false)
+                for(i = 1; i <= a; i = i + 1)
+                    return i;
+            else 
+                do 
+                    return a;
+                while (true);
+        }
+        

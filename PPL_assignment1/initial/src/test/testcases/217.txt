@@ -1,0 +1,7 @@
+int main(int argc){ 
+     string name[20]; 
+     print("Hay nhap ten cua ban:");  
+     scanf(name);
+     print("Xin chao name");          
+     return 0; }  
+        

@@ -1,0 +1,5 @@
+int a1,d[10],f[6],e,g,h[2];
+        int j;
+        int c[3];
+        float k[4];
+        string l;

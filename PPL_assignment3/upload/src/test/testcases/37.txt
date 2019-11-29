@@ -1,0 +1,23 @@
+
+        void main() {
+            test1() = 1;
+        }
+        int test1() {
+            return test2();
+        }
+        int test2() {
+            return test3();
+        }
+        int test3() {
+            return test4();
+        }
+        int test4() {
+            return test5();
+        }
+        int test5() {
+            return test6();
+        }
+        int test6() {
+            return test1();
+        }
+        

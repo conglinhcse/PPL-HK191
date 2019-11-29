@@ -1,0 +1,9 @@
+boolean main() {
+            if(a && b || c) 
+            printer(hello); 
+            else {
+                put(5);
+                push(ghj);
+                int c;
+                c=10;}
+        }

@@ -1,0 +1,15 @@
+
+        boolean check(int a){
+            if(true) return true;
+            else return false;
+        }
+        int main( int argc , boolean argv )
+        {
+            
+            if(argc==check(10) && argv!=check(10)){
+                int d ;
+                putInt(d ) ;
+            }
+            print(str);
+            return i ;
+        }

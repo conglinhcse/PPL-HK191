@@ -1,0 +1,5 @@
+
+        float a, b[7], c;
+        int a,b,c;
+        string a[2],b[3];
+            

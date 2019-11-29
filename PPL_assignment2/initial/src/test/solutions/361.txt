@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(test_GREATER_EQUAL_operator),[],IntType,Block([If(BinaryOp(||,BinaryOp(>=,Id(zxc),Id(ctx)),BinaryOp(>=,FloatLiteral(8.665),BinaryOp(+,FloatLiteral(3.0),FloatLiteral(3.1)))),Return(IntLiteral(1)),Return(IntLiteral(0)))]))])

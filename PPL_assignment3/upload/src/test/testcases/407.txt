@@ -1,0 +1,9 @@
+int i;
+
+        boolean i() {
+            return true;
+        }
+
+        void main () {
+            return;
+        }

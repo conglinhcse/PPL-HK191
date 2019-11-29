@@ -1,0 +1,13 @@
+
+        boolean main() {
+            if (test() == "KMM"){
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+        string test() {
+            return "cool";
+        }
+        
